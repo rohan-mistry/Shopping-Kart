@@ -92,12 +92,9 @@ To get a local copy up and running follow these simple example steps. -->
 
 
 
-#### Server
-- `npm i` or `yarn`
-- `npm start` or `yarn start`
 
-#### React
-- Fill in the details in `.env` file, given the keys in `sample.env`.
+#### Installation
+
 - `npm i` or `yarn`
 - `npm start` or `yarn start`
 
