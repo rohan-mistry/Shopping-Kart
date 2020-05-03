@@ -101,8 +101,8 @@ npm install npm@latest -g -->
 ### Installation
 
 
-* `npm install`
-* `npm start`
+- `npm install`
+- `npm start`
 
 
 <!-- USAGE EXAMPLES -->
