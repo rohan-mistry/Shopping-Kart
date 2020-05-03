@@ -33,8 +33,8 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center">🛒Shopping Cart</h3>
-    <hr/>
+  <h1 align="center">🛒Shopping Cart</h1>
+    
   <!-- <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
